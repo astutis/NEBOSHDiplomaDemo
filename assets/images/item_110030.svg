@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="19px" height="20.5px" viewBox="0 -2 19 20.5" style="top:-2px">
+  <desc>DI1</desc>
+  <defs/>
+  <g id="Polygon123644">
+    <path d="M 1.1 2.7 C 1.1 2.7 3.99 2.68 4 2.7 C 6.2 2.7 7.7 4.1 7.7 6.2 C 7.7 8.2 6.2 9.7 4 9.7 C 3.99 9.68 1.1 9.7 1.1 9.7 L 1.1 2.7 Z M 3.9 9 C 5.8 9 7 7.9 7 6.2 C 7 4.5 5.8 3.3 3.9 3.3 C 3.95 3.32 1.9 3.3 1.9 3.3 L 1.9 9 C 1.9 9 3.95 9.04 3.9 9 Z M 9.4 2.7 L 10.2 2.7 L 10.2 9.7 L 9.4 9.7 L 9.4 2.7 Z M 13.7 2.7 L 13.7 9.7 L 13 9.7 L 13 3.3 L 11.4 3.3 L 11.4 2.7 L 13.7 2.7 Z " stroke="none" fill="#3127a4"/>
+  </g>
+</svg>
